@@ -1,0 +1,3 @@
+{{< embed notebook.ipynb#fig-sine >}}
+
+Above, we see the sine function.

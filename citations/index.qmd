@@ -1,0 +1,6 @@
+---
+bibliography: [references.bib]
+citation-location: margin
+---
+
+With the exception of @huet-vaughnQuietRiotCausal2013, all previous literature has a setting where they look at a fixed timeframe and compare effects across regional units. Only @huet-vaughnQuietRiotCausal2013 have a methodical approach that is more similar to mine, looking at a larger dataset where events are scattered across regions and also across time.
